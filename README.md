@@ -36,3 +36,5 @@ I made this server to test a Proof Of Concept for [this](https://github.com/jgaa
 
 But it may be useful for other purposes as well.
 
+
+You can pull this container from [Docker Hub](https://hub.docker.com/r/jgaafromnorth/rest-diag-svc/)
