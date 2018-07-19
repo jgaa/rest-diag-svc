@@ -4,7 +4,7 @@ Minimalistic REST API server that just returns diagnostics data
 Example:
 
 ```sh
-$ docker build -t demo -e demo-server .
+$ docker build -t demo .
 Sending build context to Docker daemon  57.86kB
 ...
 Successfully built 52620cfc6f08
